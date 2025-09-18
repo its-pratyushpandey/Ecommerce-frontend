@@ -1,7 +1,6 @@
 import React from 'react';
 import '../components/style.css';
 import { Link, Outlet } from "react-router-dom";
-
 const AboutUs = () => {
   return (
     <div className="about-container">
